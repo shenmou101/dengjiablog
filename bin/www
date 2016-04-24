@@ -3,7 +3,7 @@
 /**
  * Module dependencies.
  */
-
+//引入app = express()
 var app = require('../app');
 var debug = require('debug')('dengjiablog:server');
 var http = require('http');

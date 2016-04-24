@@ -1,0 +1,21 @@
+{
+  "name": "dengjiablog",
+  "description": "",
+  "main": "",
+  "authors": [
+    "shenmou101 <516211584@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/shenmou101/dengjiablog",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
